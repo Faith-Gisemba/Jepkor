@@ -1,0 +1,9 @@
+.content{
+    background-image: url(/image/snake.avif);
+}
+.div{
+    font-size: 90px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(142, 184, 173);
+    empty-cells: show;
+}
